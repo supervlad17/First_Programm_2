@@ -12,9 +12,9 @@ public class Main {
             bonus = 0;
         }
 
-        int final_sum = (initialSum + addedSum + bonus);
+        int finalSum = (initialSum + addedSum + bonus);
 
-        System.out.println("Итоговый счёт: " + final_sum + "рублей");
+        System.out.println("Итоговый счёт: " + finalSum + "рублей");
         System.out.println("Количество бонусных рублей: " + bonus);
 
     }
